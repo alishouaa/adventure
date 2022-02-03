@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f4191e4c.css",
+    "main.js": "/static/js/main.657cae07.js",
+    "static/media/tour.mp4": "/static/media/tour.fdb43c7ab36d038ffca5.mp4",
+    "static/media/Cairo-Regular.ttf": "/static/media/Cairo-Regular.b7f4e25985349e014157.ttf",
+    "static/media/Atv1.jpg": "/static/media/Atv1.2e17e6889a8bf61ab126.jpg",
+    "static/media/map.jpg": "/static/media/map.85ee992160e7223f19cd.jpg",
+    "static/media/atv-resp.jpg": "/static/media/atv-resp.8276801229e5fcc00e66.jpg",
+    "static/media/photo5.jpg": "/static/media/photo5.95110abfac068c57f258.jpg",
+    "static/media/user.jpg": "/static/media/user.b6becb1272cb1da93bd0.jpg",
+    "static/media/Atv2.jpg": "/static/media/Atv2.cb2cd53f4efeb825df16.jpg",
+    "static/media/product.jpg": "/static/media/product.eedd8d7f558862e82ce6.jpg",
+    "static/media/Atv4.jpg": "/static/media/Atv4.f815384256dd24e4b10b.jpg",
+    "static/media/utv.jpg": "/static/media/utv.3ec00769e7e518682df8.jpg",
+    "static/media/atv.jpg": "/static/media/atv.e4b7ae11f3517d353237.jpg",
+    "index.html": "/index.html",
+    "main.f4191e4c.css.map": "/static/css/main.f4191e4c.css.map",
+    "main.657cae07.js.map": "/static/js/main.657cae07.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4191e4c.css",
+    "static/js/main.657cae07.js"
+  ]
+}
